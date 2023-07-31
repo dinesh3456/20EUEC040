@@ -1,0 +1,17 @@
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\bin\Debug\net7.0\AffordMedicals.exe
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\bin\Debug\net7.0\AffordMedicals.deps.json
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\bin\Debug\net7.0\AffordMedicals.runtimeconfig.json
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\bin\Debug\net7.0\AffordMedicals.dll
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\bin\Debug\net7.0\AffordMedicals.pdb
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.csproj.AssemblyReference.cache
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.AssemblyInfoInputs.cache
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.AssemblyInfo.cs
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.csproj.CoreCompileInputs.cache
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.dll
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\refint\AffordMedicals.dll
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.pdb
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.genruntimeconfig.cache
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\ref\AffordMedicals.dll
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\devel\OneDrive\Desktop\Afford Medicals\AffordMedicals\obj\Debug\net7.0\AffordMedicals.csproj.CopyComplete
